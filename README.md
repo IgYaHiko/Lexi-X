@@ -19,7 +19,7 @@ It showcases interactive 3D animations, scroll-triggered transitions, and a slee
 ## 📸 Demo Preview
 
 <!-- Replace the path below with your actual image or GIF path -->
-![LexiX Preview](./preview.png)
+![LexiX Preview](./src/assets/images/home.jpg)
 
 > Want a GIF demo instead? Use `.gif` instead of `.png` in the link above.
 
