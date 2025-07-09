@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+:root {
+  background-color: #0E0E0E;
+
+  /* Font family setup */
+  --font-primary: 'Poppins', sans-serif;
+  --font-secondary: 'Futura', 'Trebuchet MS', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-primary);
+  background-color: inherit;
+  color: #fff; /* Optional: white text for dark background */
+}
+
