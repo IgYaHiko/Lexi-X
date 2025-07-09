@@ -1,4 +1,4 @@
-import logo from '../assets/images/Lexi-x.png'
+
 import earth from '../assets/images/planets/ear_cloud.jpg'
 import eris from '../assets/images/planets/eris.jpg'
 import mars from '../assets/images/planets/mars.jpg'
@@ -7,11 +7,7 @@ import venus from '../assets/images/planets/venus.jpg'
 import vormir from '../assets/images/planets/vormin.jpg'
 import newStar from '../assets/images/planets/newstar.jpg'
 
-export const images = {
-     logo,
-    
-    
-}
+
 export const planets = {
      earth,
      eris,
